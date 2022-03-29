@@ -1,16 +1,4 @@
-# auth_app
+## [Flutter Diamond Elite Platinum Plus Başlangıç Paketleri.](https://medium.com/@alpcanm/flutter-diamond-elite-platinum-plus-ba%C5%9Flang%C4%B1%C3%A7-paketleri-6138f76ba1ee)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
